@@ -8,8 +8,9 @@ class Shoe
   end
 
   def cobble
-    puts "HI"
+    puts "Your shoe is as good as new!"
   end
-  
+
+  def
 
 end
