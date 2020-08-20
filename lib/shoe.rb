@@ -9,5 +9,7 @@ class Shoe
 
   def cobble
     puts "HI"
+  end
+  
 
 end
